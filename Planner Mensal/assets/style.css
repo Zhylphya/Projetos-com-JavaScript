@@ -5,6 +5,12 @@
     scroll-behavior: smooth;
 }
 
+:root {
+    --cor-primaria: ;
+    --cor-secundaria: ;
+    --fonte-primaria: ;
+    --fonte-secundaria: ;
+}
 body {
     background-color: aqua;
 }
